@@ -1,0 +1,1 @@
+[![](https://jitpack.io/v/Gappylul/easy-javafx-table.svg)](https://jitpack.io/#Gappylul/easy-javafx-table)
